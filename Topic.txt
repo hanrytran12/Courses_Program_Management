@@ -1,0 +1,5 @@
+T01, Java Programming, Long term, Advanced Java, 90
+T03, Data Science, Long term, Data Science Mastery, 120
+T02, Web Development, Short term, Full Stack Web Dev, 45
+T05, AI and ML, Long term, Machine Learning Pro, 150
+T04, Cybersecurity, Short term, Cybersecurity Basics, 30
